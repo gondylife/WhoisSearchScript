@@ -1,0 +1,1 @@
+This helps you search whois to know if a domain name has been taken or not. There a couple of reasons you may want to use this script, Domain Name Registrars exploit people most times and register top level names they search for or set them to premium names.
